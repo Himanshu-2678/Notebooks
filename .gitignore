@@ -1,4 +1,9 @@
-EDA/Datasets/
-EDA/All Notebooks/
+# Ignore everything inside EDA folder
+EDA/
+
+# (Optional) Ignore CSV and ZIP files anywhere
 *.csv
 *.zip
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
