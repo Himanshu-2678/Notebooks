@@ -1,2 +1,18 @@
-Fish Market for Fish Poly_LR.ipynb - https://www.kaggle.com/datasets/vipullrathod/fish-market
-Wine qualty - https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datasets Used in My Notebooks</title>
+</head>
+<body>
+    <h1>Datasets Used in My Notebooks</h1>
+    <p>This page lists all the datasets I have used in my Jupyter Notebooks. You can access each dataset by clicking on the respective link below.</p>
+
+    <h2>Dataset Links</h2>
+    <ul>
+        <li><a href="https://www.kaggle.com/datasets/vipullrathod/fish-market" target="_blank">Fish Market for Fish Poly_LR.ipynb</a></li>
+        <li><a href="https://www.kaggle.com/datasets/yasserh/wine-quality-dataset" target="_blank">Wine Quality Dataset</a></li>
+    </ul>
+</body>
+</html>
