@@ -7,3 +7,7 @@ EDA/
 
 # Ignore Jupyter checkpoint files
 .ipynb_checkpoints/
+
+
+PolyPipeline.ipynb
+bfg-1.14.0.jar
