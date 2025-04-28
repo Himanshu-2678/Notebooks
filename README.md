@@ -1,3 +1,17 @@
-# Notebooks Repository
+# Jupyter Notebooks Collection
 
-This repository includes all the Jupyter Notebooks I have worked on, ranging from data exploration to building machine learning models. It showcases my hands-on experience with data analysis, visualization, model training, and various techniques I’ve learned throughout my AI/ML journey.
+Welcome to my collection of Jupyter Notebooks!
+This repository features all the notebooks I have worked on throughout my AI/ML learning journey — from initial data exploration to building and evaluating machine learning models. It reflects my hands-on experience with:
+
+Data analysis and preprocessing
+
+Data visualization
+
+Feature engineering
+
+Model training and evaluation
+
+Experimenting with different algorithms and techniques
+
+Each notebook represents a step in my continuous growth in data science and machine learning. Feel free to explore!
+
